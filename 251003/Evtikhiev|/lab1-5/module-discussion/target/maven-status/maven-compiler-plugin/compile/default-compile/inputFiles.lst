@@ -1,0 +1,12 @@
+C:\Users\Nikita\IdeaProjects\RV4\module-discussion\src\main\java\com\example\modulediscussion\entity\Message.java
+C:\Users\Nikita\IdeaProjects\RV4\module-discussion\src\main\java\com\example\modulediscussion\kafka\KafkaConsumerService.java
+C:\Users\Nikita\IdeaProjects\RV4\module-discussion\src\main\java\com\example\modulediscussion\ModuleDiscussionApplication.java
+C:\Users\Nikita\IdeaProjects\RV4\module-discussion\src\main\java\com\example\modulediscussion\repository\MessageRepository.java
+C:\Users\Nikita\IdeaProjects\RV4\module-discussion\src\main\java\com\example\modulediscussion\service\MessageService.java
+C:\Users\Nikita\IdeaProjects\RV4\module-discussion\src\main\java\com\example\modulediscussion\mapper\MessageMapper.java
+C:\Users\Nikita\IdeaProjects\RV4\module-discussion\src\main\java\com\example\modulediscussion\exception\DublExeption.java
+C:\Users\Nikita\IdeaProjects\RV4\module-discussion\src\main\java\com\example\modulediscussion\configuration\Config.java
+C:\Users\Nikita\IdeaProjects\RV4\module-discussion\src\main\java\com\example\modulediscussion\controller\MessageController.java
+C:\Users\Nikita\IdeaProjects\RV4\module-discussion\src\main\java\com\example\modulediscussion\exception\MyException.java
+C:\Users\Nikita\IdeaProjects\RV4\module-discussion\src\main\java\com\example\modulediscussion\kafka\KafkaProducerService.java
+C:\Users\Nikita\IdeaProjects\RV4\module-discussion\src\main\java\com\example\modulediscussion\entity\States.java
